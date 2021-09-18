@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working with Deno
-- 🌱  and learning Rust by reading => https://doc.rust-lang.org/book/ <=
+- 🌱  And learning Rust by reading --> https://doc.rust-lang.org/book/
 
 <!--
 **zk182/zk182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
