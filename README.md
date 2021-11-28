@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="./Brooklyn.jpg" height="500">
+<p align="center">
+  <img src="./Brooklyn.jpg" height="500">
+ </p>
 
 - 🔭  I’m currently working with Deno
 - 🌱  And learning Rust by reading --> https://doc.rust-lang.org/book/
