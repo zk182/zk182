@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Me](./Brooklyn.jpg)
+
 - 🔭  I’m currently working with Deno
 - 🌱  And learning Rust by reading --> https://doc.rust-lang.org/book/
 
