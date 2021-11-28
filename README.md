@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Me](./Brooklyn.jpg)
+<img src="./Brooklyn.jpg" height="500">
 
 - 🔭  I’m currently working with Deno
 - 🌱  And learning Rust by reading --> https://doc.rust-lang.org/book/
