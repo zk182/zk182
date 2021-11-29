@@ -7,6 +7,10 @@
 - 🔭  I’m currently working with Deno
 - 🌱  And learning Rust by reading --> https://doc.rust-lang.org/book/
 
+![My Stats](https://github-readme-stats.vercel.app/api?username=zk182&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true)
+![My Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zk182&count_private=true&layout=compact&hide_title=true&&hide_border=true&langs_count=7&hide=html)
+
+
 <!--
 **zk182/zk182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
