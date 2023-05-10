@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working with .ts
 - 🌱  And learning Deno & fresh framework --> [https://fresh.deno.dev/](https://fresh.deno.dev/)
-- 😄  I’m curious to check [https://bun.sh/](https://bun.sh/) next!
+- 😄  I’m curious to check [https://bun.sh/](https://bun.sh/) & [https://github.com/modularml/mojo](https://github.com/modularml/mojo) next!
 
 
 <!--
