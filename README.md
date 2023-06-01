@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="./Brooklyn.jpg" height="500">
 </p>
-
+ -->
 I am Nico, backend developer working with .js/.ts 😄
 
 You can learn more about me in my website
 
 
-<!--
+<!-- 
 - 🔭  I’m currently working with .ts
 - 🌱  And learning Deno & fresh framework --> [https://fresh.deno.dev/](https://fresh.deno.dev/)
 - 😄  I’m curious to check [https://bun.sh/](https://bun.sh/) & [https://github.com/modularml/mojo](https://github.com/modularml/mojo) next!
