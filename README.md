@@ -4,8 +4,9 @@
   <img src="./Brooklyn.jpg" height="500">
 </p>
  -->
-I am Nico, backend developer working with .js/.ts 😄
-You can learn more about me in my website
+I am Nico, backend developer working with .js/.ts 😄 </br>
+
+Currently working at [Denode](https://denode.com/) 💻
 
 
 <!-- 
