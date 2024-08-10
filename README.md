@@ -6,7 +6,7 @@
  -->
 I am Nico, backend developer working with <img src="./js.webp" height="25"> environments </br>
 
-💻 Currently working at [Denode](https://denode.com/) & contributing to [Rise](https://github.com/RisingSquad)
+💻 Currently working at [Denode](https://denode.com/) & contributing to [jsCowboys](https://github.com/jscowboys)
 
 
 <!-- 
