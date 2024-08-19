@@ -4,7 +4,7 @@
   <img src="./Brooklyn.jpg" height="500">
 </p>
  -->
-I am Nico, backend developer working with <img src="./js.webp" height="25"> environments </br>
+I am Nico, backend developer working with .js environments </br>
 
 💻 Currently working at [Denode](https://denode.com/) & contributing to [jsCowboys](https://github.com/jscowboys)
 
