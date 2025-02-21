@@ -6,7 +6,7 @@
  -->
 I am Nico, backend developer working with .js environments </br>
 
-💻 Currently working at [Denode](https://denode.com/) & contributing to [jsCowboys](https://github.com/jscowboys)
+💻 Currently working at [MODO](https://modo.com.ar/) & contributing to [jsCowboys](https://github.com/jscowboys)
 
 
 <!-- 
