@@ -4,7 +4,7 @@
   <img src="./Brooklyn.jpg" height="500">
 </p>
  -->
-I am Nico, backend developer working with .js environments </br>
+I am Nico, backend developer working with .js environments, but in love with rust </br>
 
 💻 Currently working at [MODO](https://modo.com.ar/) & contributing to [jsCowboys](https://github.com/jscowboys)
 
