@@ -7,7 +7,7 @@
 Backend developing with .js, in love with rust </br>
 
 - 💻 Currently working at [MODO](https://modo.com.ar/)
-- 📫 How to reach me: write me at nicobattmdq@gmail.com
+- 📫 Reach me -> nicobattmdq@gmail.com
 - ⚡ My portfolio [here](https://nicobatt.vercel.app/)
   
 
