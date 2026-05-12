@@ -6,9 +6,9 @@
  -->
 Backend developing with .js, in love with rust </br>
 
-- 💻 Currently working at [MODO](https://modo.com.ar/)
-- 📫 Reach me at nicobattmdq@gmail.com
-- ⚡ My portfolio [here](https://nicobatt.vercel.app/)
+- Currently working at [Cashea](https://www.cashea.app/)
+- My portfolio [here](https://nicobatt.vercel.app/)
+- Reach me at nicobattmdq@gmail.com
   
 
 
