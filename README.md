@@ -4,7 +4,7 @@
   <img src="./Brooklyn.jpg" height="500">
 </p>
  -->
-Backend developing with .js, in love with rust </br>
+Backend developing with .js & go, in love with rust </br>
 
 - Currently working at [Cashea](https://www.cashea.app/)
 - My portfolio [here](https://nicobatt.vercel.app/)
